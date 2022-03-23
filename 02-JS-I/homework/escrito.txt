@@ -1,0 +1,5 @@
+Variables = Son los elementos que forman parte del problema que vamos a resolver, y los podemos ir definiendo uno a uno.
+String = es Cadena en ingles, y se refiere a caracteres
+Funciones (argumentos, return) = son las acciones que vamos a definir para que tomen una accion y den un resultado (que seria el RETURN)
+Declaraciones If: es "si" condicional en ingles, esto significa que estamos colocando una condicion, haciendo una pregunta que si se cumple, esa condicion como tal, da un resultado. 
+Valores booleanos: son aquellos elementos que podemos definir como verdaderos o falsos
